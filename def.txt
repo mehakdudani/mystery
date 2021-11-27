@@ -1,1 +1,3 @@
 abcdef
+git config --global user.email "Shrishtisinghal50@gmail.com"
+git config --global user.name "ShrishtiSi"
